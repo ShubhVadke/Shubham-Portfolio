@@ -38,8 +38,8 @@ const Hero = () => {
 
           <div className="flex items-center gap-3">
             <ButtonPrimary
+              href="#contact"
               label="Contact Me ✉️"
-            // icon="download"
             />
             <ButtonOutline
               href="#about"
