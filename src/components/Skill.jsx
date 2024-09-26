@@ -12,7 +12,7 @@ const skillItem = [
   {
     imgSrc: "/images/Java.png",
     label: "Java",
-    desc: "Backend",
+    desc: "Programming Language",
   },
   {
     imgSrc: "/images/spring-boot.png",
