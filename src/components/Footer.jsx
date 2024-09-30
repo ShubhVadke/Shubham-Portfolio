@@ -48,10 +48,10 @@ const socials = [
     label: "Instagram",
     href: "https://instagram.com/shubhamvadke.dev",
   },
-  {
-    label: "LeetCode",
-    href: "https://leetcode.com/u/shubhamvadke/",
-  },
+  // {
+  //   label: "LeetCode",
+  //   href: "https://leetcode.com/u/shubhamvadke/",
+  // },
 ];
 
 const Footer = () => {
