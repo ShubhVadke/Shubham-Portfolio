@@ -9,7 +9,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        'sans': ["Space Grotesk", 'sans-serif']
+        'sans': ['Maven Pro', 'sans-serif']
       }
     },
   },
