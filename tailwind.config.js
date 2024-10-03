@@ -9,7 +9,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        'sans': ['Maven Pro', 'sans-serif']
+        'sans': ['Montserrat', 'sans-serif']
       }
     },
   },
