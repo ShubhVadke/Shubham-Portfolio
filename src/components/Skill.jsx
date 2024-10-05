@@ -15,6 +15,11 @@ const skillItem = [
     desc: "Programming Language",
   },
   {
+    imgSrc: "/images/Python.png",
+    label: "Python",
+    desc: "Programming Language",
+  },
+  {
     imgSrc: "/images/spring-boot.png",
     label: "Spring Boot",
     desc: "Java Framework",
