@@ -34,10 +34,10 @@ const works = [
     projectLink: "https://shubhvadke.github.io/Hamburger-Effects/",
   },
   {
-    imgSrc: "/images/CS.jpg",
-    title: "eCommerce website",
-    tags: ["eCommerce", "Development"],
-    projectLink: "https://github.com/codewithsadee/anon-ecommerce-website",
+    imgSrc: "/images/terminaltalk.jpg",
+    title: "TerminalTalk",
+    tags: ["Ai Chat", "API"],
+    projectLink: "https://terminal-talk-sigma.vercel.app",
   },
   {
     imgSrc: "/images/CS.jpg",
